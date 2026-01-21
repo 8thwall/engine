@@ -2,13 +2,13 @@
 
 ## Overview
 
-This repo holds the distributed 8th Wall Engine binary.
+This repo holds the distributed 8th Wall engine binary.
 
-The Distributed Engine Binary contains the core 8th Wall AR engine and is included with each project exported using Buildable Code Export.
+The 8th Wall engine binary contains the core 8th Wall AR engine and is included with each project exported using Buildable Code Export.
 
 It is provided as closed source and governed by a limited-use distribution license.
 
-The distributed engine binary includes the core AR capabilities that power 8th Wall experiences, including:
+The 8th Wall engine binary includes the core AR capabilities that power 8th Wall experiences, including:
 
 - World Effects
 - Face Effects
@@ -16,7 +16,7 @@ The distributed engine binary includes the core AR capabilities that power 8th W
 - Sky Effects
 - Absolute Scale
 
-The engine binary does not include:
+The 8th Wall engine binary does not include:
 
 - Source code access
 - The ability to modify or recompile the engine
