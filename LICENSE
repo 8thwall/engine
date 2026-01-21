@@ -1,0 +1,162 @@
+XR ENGINE LICENSE AGREEMENT
+
+This XR Engine License Agreement (the “Agreement”) should be read carefully before using the XR engine, as may
+be updated and amended from time to time (the “Software”) and corresponding documentation, which is offered
+by Niantic Spatial, Inc. (“Niantic Spatial”).
+By downloading the Software (whether from a marketplace or software repository distribution provider, or from
+another link that Niantic Spatial may provide to you), or otherwise using the Software or exercising any of the rights
+granted hereunder in any manner, you (“Licensee”) agree that you have read and agree to be bound by the terms
+of this Agreement and that you will use the Software only for XR Engine Purposes (as defined below). If you are
+accessing the Software on behalf of an organization or entity, you represent and warrant that you are authorized to
+enter into this Agreement on that organization’s or entity’s behalf and bind them to the terms of this License (in
+which case, the references to “Licensee” in this License refer to that organization or entity). Use of the Software is
+expressly conditioned upon Licensee’s assent to all terms of this Agreement.
+
+1.LICENSE.
+1.1. Grant of License. Subject to Licensee’s compliance with the terms and conditions of this
+Agreement (including without limitation the restrictions set forth in Section 1.2), Niantic Spatial hereby grants
+Licensee a limited, non-exclusive, non-transferable, non-sublicensable, revocable license, during the term of this
+Agreement, to install, execute, and distribute the Software (solely in the original form distributed by Niantic
+Spatial) in connection with your applications, games, products, and/or services which utilize the functionality of
+the Software.
+1.2. License Restrictions. Licensee may not utilize the Software or exercise the rights granted in this
+Section 1 in connection with any product or service: (1) which is offered for a fee or other consideration, and (2)
+whose value derives, entirely or substantially, from the functionality of the Software. Licensee acknowledges
+that the Software contains trade secrets of Niantic Spatial and its licensors, and, in order to protect such trade
+secrets and other interests that Niantic Spatial and its licensors may have in the Software, Licensee will not, and
+will not allow a third party to: (i) reverse engineer, decompile or disassemble the Software; (ii) modify or create
+derivative works of, distribute sell, sublicense or otherwise transfer the Software; (iii) copy the Software, except
+as strictly necessary to use the Software in accordance with the terms of Section 1.1; or (iv) use the Software or
+any documentation to create, improve (directly or indirectly) or offer a substantially similar product or service,
+or build a competitive product.
+1.3. Attribution.
+1.3.1.1. Licensee will reproduce all of Niantic Spatial’s and its licensors’ copyright
+notices and any other proprietary rights notices on all copies of the Software that Licensee makes hereunder.
+1.3.1.2. In any material in which Licensee utilizes the functionality of the Software,
+Licensee must (1) retain the following: (i) identification of Niantic Spatial as the creator of the Software, in any
+reasonable manner requested by the Niantic Spatial (including by pseudonym if designated); (ii) a copyright notice;
+(iii) a notice that refers to this Agreement; and (iv) a notice that refers to the disclaimer of warranties; and (2)
+indicate the Software is licensed under this Agreement, and include the text of, or the URI or hyperlink to, this
+Agreement.
+1.3.1.3. Nothing in this Agreement constitutes or may be construed as permission to
+assert or imply that Licensee are, or that Licensee’s use of the Software is, connected with, or sponsored, endorsed,
+or granted official status by, Niantic Spatial or others designated to receive attribution as provided in this Section.
+1.4. Limited Rights. Licensee’s rights in the Software will be limited to those expressly granted in
+Section 1. Niantic Spatial and its Niantic Spatials reserve all rights, title and interest in and to the Software and
+no rights are granted to Licensee hereunder (whether by implication, estoppel, exhaustion or otherwise) other
+than as expressly set forth herein.
+1.5. Attestation. Upon the Niantic Spatial’s request, Licensee shall confirm in writing its compliance
+with the permitted use of the Software and the terms and conditions of this Agreement.
+
+2. INTELLECTUAL PROPERTY. Licensee may from time to time elect to provide suggestions, information, comments
+(including for enhancements, functionality or clarification) or other ideas, suggestions, or feedback regarding the
+Software (“Feedback”) to Niantic Spatial. Licensee acknowledges and agrees that all Feedback will be the sole and
+exclusive property of Niantic Spatial. Licensee hereby irrevocably transfers and assigns to Niantic Spatial and agrees
+to irrevocably assign and transfer to Niantic Spatial all of Licensee's right, title and interest in and to all Feedback,
+including all worldwide patent rights (including patent applications and disclosures), copyright rights, trade secret
+rights and other intellectual property rights (collectively, “Intellectual Property Rights”) therein. At Niantic Spatial’s
+request and expense, Licensee will execute documents and take such further acts as Niantic Spatial may reasonably
+request to assist Niantic Spatial to acquire, perfect and maintain its Intellectual Property Rights and other legal
+protections for the Feedback. Licensee further acknowledges and agrees that, as between the parties, Niantic
+Spatial will solely own all right, title and interest in and to the Software, including all improvements, modifications,
+and derivative works thereof, and all Intellectual Property Rights therein. Licensee will not acquire any rights or
+licenses in the Software or in any Niantic Spatial Intellectual Property Rights by virtue of this Agreement or as a
+result of Licensee's performance under this Agreement.
+
+3. CONFIDENTIAL INFORMATION. “Confidential Information” means: (i) the Software, and other information relating
+to, the Software (including, without limitation, all Feedback); and (ii) any business or technical information of
+Niantic Spatial, including, but not limited to, any information relating to Niantic Spatial’s product plans, designs,
+costs, product prices and names, finances, marketing plans, business opportunities, personnel, research,
+development or know-how that is identified at the time of disclosure as confidential or that reasonably should be
+considered to be confidential given the circumstances of disclosure or the nature of the information. Confidential
+Information does not include any information that Licensee can demonstrate: (a) is, at the time of disclosure, or
+becomes generally known or available to the public through no act or failure to act by Licensee; (b) is rightfully
+known by Licensee prior to the disclosure without an obligation of confidentiality; (c) is rightfully acquired by
+Licensee from a third party without restriction on use or disclosure; or (d) is independently developed by Licensee
+without use of or access to any Confidential Information. Licensee will not use or disclose any Confidential
+Information, except as necessary to test and evaluate the Software and to provide Feedback. Licensee will use all
+reasonable efforts to protect Confidential Information from unauthorized use or disclosure, but in no event less
+than the efforts that it ordinarily uses with respect to its own confidential information of a similar nature and
+importance. Licensee may disclose Confidential Information only to those of its employees who have a bona fide
+need to know such Confidential Information for the testing and XR Engine of the Software and providing Feedback;
+provided that, each such employee is bound by written agreements with use and nondisclosure restrictions at least
+as protective of the Confidential Information as those set forth in this Agreement. To the extent there is a breach of
+Confidential Information or Intellectual Property Rights, Niantic Spatial may seek injunctive relief in any court of
+competent jurisdiction without the posting of a bond or other similar requirement.
+
+4. DISCLAIMERS. THE SOFTWARE AND DOCUMENTATION ARE BEING PROVIDED “AS IS” WITHOUT ANY WARRANTIES.
+NIANTIC SPATIAL HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT, AND ANY
+WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. WITHOUT LIMITING THE FOREGOING,
+NIANTIC SPATIAL HEREBY DISCLAIMS ANY WARRANTY THAT USE OF THE SOFTWARE WILL BE ERROR-FREE,
+BUG-FREE OR UNINTERRUPTED. Without limiting the foregoing, Licensee acknowledges and agrees that: (i) the
+Software may not operate properly, be in final form or fully functional; (ii) the Software may contain errors, design
+flaws or other problems; (iii) Niantic Spatial is under no obligation to update, resolve, or otherwise patch the
+Software to resolve such errors; and (vi) Niantic Spatial has the right unilaterally to abandon development of the
+Software, at any time and without any obligation or liability to Licensee.
+5. INDEMNITY. Licensee shall indemnify, defend, and hold harmless Niantic Spatial and its directors, officers,
+employees, agents, and affiliates from and against any and all claims, suits, actions, damages, losses, liabilities,
+costs, and expenses (including reasonable attorneys’ fees) arising out of or relating to: (a) Licensee’s use or
+distribution of the Software; (b) any applications, games, products, and/or services of Licensee which utilize the
+functionality of the Software; (c) any breach by the Licensee of any term of this Agreement; and (d) any third-party
+claim that the Licensee’s data, materials, or use of the Software infringes or misappropriates any intellectual
+property right or trade secret. Niantic Spatial will promptly notify Licensee of any claim for which indemnity is
+sought and will reasonably cooperate with Licensee in the defense and/or settlement of such claim. Licensee shall
+have the sole right to conduct the defense of any such claim, provided that Licensee may not settle any claim
+without Niantic Spatial’s prior written consent unless the settlement is solely for a monetary amount,
+unconditionally releases Niantic Spatial from all liability without prejudice, does not require any admission by
+Niantic Spatial, and does not impose any restrictions on Niantic Spatial’s business, products, or services. Niantic
+Spatial may participate in the defense at its own expense and with counsel of its choice, or, if Licensee fails to fulfill
+its defense obligations, Niantic Spatial may defend itself and seek reimbursement from Licensee.
+6. LIMITATION ON LIABILITY. IN NO EVENT WILL NIANTIC SPATIAL, ITS LICENSORS OR ANY OF ITS AFFILIATES BE
+LIABLE TO LICENSEE OR TO ANY THIRD PARTY FOR DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION,
+DIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF USE, DATA, BUSINESS
+OR PROFITS) ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE INSTALLATION OR USE OF OR
+INABILITY TO USE THE SOFTWARE OR FOR ANY ERROR OR DEFECT IN THE SOFTWARE, WHETHER SUCH LIABILITY
+ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY
+OR OTHERWISE, AND WHETHER OR NOT NIANTIC SPATIAL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS
+OR DAMAGE. THE PARTIES HAVE AGREED THAT THESE LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED
+REMEDY SPECIFIED IN THIS AGREEMENT IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+
+7.TERM AND TERMINATION.
+7.1. Term. The term of this Agreement commences on the first date Licensee accesses or otherwise
+uses the Software, and will continue until terminated.
+7.2. Termination. Either party may terminate this Agreement at any time, with or without cause, upon
+five (5) days’ written notice to the other party. Niantic Spatial may terminate this Agreement immediately upon
+written notice to Licensee in the event that Licensee breaches Section 1.2 or infringes or otherwise violates
+Niantic Spatial’s Intellectual Property Rights.
+7.3. Effect of Termination. Upon any termination or expiration of this Agreement: (i) the rights and
+licenses granted to Licensee under this Agreement will automatically terminate; and (ii) Licensee will
+immediately uninstall the Software and destroy all copies of the Software and any other Confidential
+Information in Licensee's possession or control. At Niantic Spatial’s request, Licensee will certify in writing that it
+has complied with the foregoing.
+7.4. Survival. The provisions of Sections 2, 3, 4, 5, 6, 7.3, 7.4 and 8 will survive any termination or
+expiration of this Agreement.
+
+8.GENERAL. Licensee may not assign or transfer this Agreement, by operation of law or otherwise, without Niantic
+Spatial’s prior written consent, and any attempt by you to do so, without such consent, will be void. This
+Agreement is binding upon and will inure to the benefit of each of the parties and their respective successors and
+permitted assigns. If any provision of this Agreement is held invalid, illegal or unenforceable, that provision will be
+enforced to the maximum extent permitted by law, given the fundamental intentions of the parties, and the
+remaining provisions of this Agreement will remain in full force and effect. This Agreement is the complete and
+exclusive agreement between the parties with respect to its subject matter and supersedes all prior or
+contemporaneous agreements, communications and understandings, both written and oral, with respect to its
+subject matter. This Agreement may be amended or modified only by a written document executed by duly
+authorized representatives of the parties. Nothing in this Agreement will be construed to create a partnership,
+joint venture or agency relationship between the parties. Neither party will have the power to bind the other or to
+incur obligations on the other’s behalf without such other party’s prior written consent. Except as expressly set
+forth in this Agreement, the exercise by either party of any remedy under this Agreement will be without prejudice
+to its other remedies under this Agreement or otherwise. Either party’s failure to enforce any provision of this
+Agreement will not constitute a waiver of future enforcement of that or any other provision. No waiver of any
+provision of this Agreement will be effective unless it is in writing and signed by the party granting the waiver. This
+Agreement will be governed by and construed in accordance with the laws of the State of California without giving
+effect to any principles of conflict of laws that would lead to the application of the laws of another jurisdiction. Any
+legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts
+located in the Northern District of California and the parties irrevocably consent to the personal jurisdiction and
+venue therein. All notices required to be sent hereunder will be in writing and will be deemed to have been given
+when mailed by certified mail, overnight express, or sent by email, with receipt confirmed. This Agreement may be
+signed in counterparts, and electronic signatures will have the same weight and effect as originals. Licensee will
+comply fully with all applicable export laws and regulations of the United States (“Export Laws”) to ensure that
+neither the Software nor any technical data related thereto is: (i) exported or re-exported directly or indirectly in
+violation of Export Laws; or (ii) used for any purposes prohibited by the Export Laws, including, but not limited to,
+nuclear, chemical, or biological weapons proliferation.
