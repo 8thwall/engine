@@ -23,6 +23,10 @@ The 8th Wall engine binary does not include:
 - Niantic Spatial products such as VPS, Lightship Maps, or the Geospatial Browser
 - Hand Tracking
 
+## Usage
+
+See https://8th.io/getting-started for an integration guide.
+
 ## Resources
 
 Read more about this release and how to migrate your projects to the 8th Wall engine binary here:
