@@ -1,5 +1,8 @@
 # 8th Wall Engine
 
+> [!IMPORTANT]
+> This is not the MIT-licensed open source 8th Wall engine. That is available in the [here](https://github.com/8thwall/8thwall/blob/main/packages/engine/README.md) and is a separate repository.
+
 ## Overview
 
 This repo holds the distributed 8th Wall engine binary.
