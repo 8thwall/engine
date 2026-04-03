@@ -5,12 +5,12 @@
 
 ## Usage
 
-See https://8thwall.org/docs/engine/overview for more detailed information.
+See https://8thwall.org/docs/engine/overview for a more detailed guide.
 
 ### Option 1: Script tag
 
 ```html
-<script async src=" https://cdn.jsdelivr.net/npm/@8thwall/engine-binary@1/dist/xr.js" data-preload-chunks="slam"></script>
+<script src="https://cdn.jsdelivr.net/npm/@8thwall/engine-binary@1/dist/xr.js" async crossorigin="anonymous" data-preload-chunks="slam"></script>
 ```
 
 ### Option 2: npm
@@ -19,10 +19,9 @@ See https://8thwall.org/docs/engine/overview for more detailed information.
 npm install @8thwall/engine-binary
 ```
 
-When installed through npm, you will copy the artifacts into your published project, for example in webpack:
+You will need to copy the included artifacts into your dist folder, for example in webpack:
 
 ```js
-// Example webpack configuration
 new CopyWebpackPlugin({
   patterns: [
     {
@@ -33,15 +32,21 @@ new CopyWebpackPlugin({
 })
 ```
 
+You can then load the SDK by adding the following to index.html:
+
 ```html
-<script async src="./external/xr/xr.js" data-preload-chunks="slam"></script>
+<script src="./external/xr/xr.js" async data-preload-chunks="slam"></script>
+```
+
+When importing the package, you will get a simple helper for accessing XR8 once it is loaded. This promise will only resolve if the script tag is included in the HTML.
+
+```js
+import {XR8Promise} from '@8thwall/engine-binary'
+
+XR8Promise.then((XR8) => XR8.XrController.configure({}))
 ```
 
 ## Overview
-
-The 8th Wall engine binary contains the core 8th Wall AR engine
-
-It is provided as closed source and governed by a limited-use distribution license.
 
 The 8th Wall engine binary includes the core AR capabilities that power 8th Wall experiences, including:
 
