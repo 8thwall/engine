@@ -1,0 +1,33 @@
+{
+  "name": "@8thwall/engine-binary",
+  "version": "1.0.0",
+  "description": "Framework for cross platform, browser based AR",
+  "author": "8th Wall Team",
+  "license": "See LICENSE",
+  "homepage": "https://8thwall.org",
+  "bugs": {
+    "url": "https://github.com/8thwall/8thwall/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8thwall/engine.git"
+  },
+  "keywords": [
+    "8thwall",
+    "ar",
+    "xr",
+    "augmented reality",
+    "world tracking",
+    "image tracking",
+    "face tracking",
+    "slam",
+    "webxr"
+  ],
+  "main": "index.js",
+  "files": [
+    "dist",
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ]
+}
